@@ -8,7 +8,7 @@ Entradas: Pulsador,finais de carreira (3x dixital)
 Saídas: Relé (2x dixital)
 
 Autor: Marcos Antonio Mariño Mota
-Data: Febreiro de 2023
+Data: Febreiro de 2024
 */
 
 #define motorArriba 11
